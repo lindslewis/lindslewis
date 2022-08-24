@@ -20,4 +20,5 @@
 <h1 align="center" style="color: white; font-size: 40px; font-family:century gothic;">
     hello there
     <img src="https://media.giphy.com/media/3FjuotitkhOffmPamc/giphy.gif" alt="waving rabbit" width="100">
+    <p style="color: #d2697a; font-size:25px; ">nice to have you</p>
 </h1>
