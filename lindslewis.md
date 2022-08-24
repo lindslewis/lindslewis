@@ -45,9 +45,20 @@ As I continue to dive deeper into this career, I hope to learn deeply, create di
 <br>
 <br>
 <br>
-<br>
-<p style="color: white; font-size: 20px; font-family:century gothic; margin-left:10px;">About Me</p>
+
+<p style="color: white; font-size: 20px; font-family:century gothic;">About Me</p>
+
 - I am currently attending the <span style="color:#8d4fc8">University of Washington Coding Bootcamp</span>, expecting to receive a Professional Certificate in Coding.
-- I graduated from <span style="color:#ff8000">Oregon State University</span> with a Bachelors in English
+
+- I graduated from <span style="color:#ff8000">Oregon State University</span> with a Bachelors in English.
+
 - If I'm not hitting the books, you can expect to find me crocheting, out exploring, or playing a few games to recharge.
 
+<p style="float:left;margin-right:5px;">You can reach me at</p> 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-ff69b4?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lewis-lindsay/)
+
+
+<p style="color: white; font-size: 20px; font-family:century gothic;">Languages and Tools</p>
+
+<img src="https://media.giphy.com/media/h0KBN3qQOAxv6DwiFm/giphy.gif" alt="cat saying boo and waving" width=200>
