@@ -25,15 +25,16 @@
 </h1>
 
 <p style="color: white; font-size: 20px; font-family:century gothic;">I'm Lindsay Lewis</p>
+
+
+<section style="float:left; margin-right:50px; margin-top:10px;">
+    <img src="purple-smol.jpg" alt="avatar of Lindsay" style="border-radius: 20%; width: 200px; box-shadow:0 0 10px #fa5baf">
+</section>
 <section style="margin-bottom:10px;">
     <img src="https://media.giphy.com/media/YSNkK0KrhJB8u0Rc0i/giphy.gif" alt="location pin" width="40" style="float:left">
 </section>
 <p style="padding-top:6px; font-size:15px;float:right;">Portland, Oregon</p>
 <br>
-
-<section style="float:left; margin-right:50px; margin-top:10px;">
-    <img src="purple-smol.jpg" alt="avatar of Lindsay" style="border-radius: 20%; width: 200px; box-shadow:0 0 10px #fa5baf">
-</section>
 <br>
 <br>
 <br>
