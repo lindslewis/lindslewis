@@ -72,3 +72,11 @@ As I continue to dive deeper into this career, I hope to learn deeply, create di
 
 
 <img src="https://media.giphy.com/media/h0KBN3qQOAxv6DwiFm/giphy.gif" alt="cat saying boo and waving" width=200 style="float:right">
+
+<br>
+<br>
+<br>
+<br>
+<p style="color: white; font-size: 20px; font-family:century gothic;">Stats</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindslewis&layout=compact&theme=vision-friendly-dark)](https://github.com/lindslewis/github-readme-stats)
