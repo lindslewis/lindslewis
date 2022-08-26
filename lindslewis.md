@@ -1,4 +1,4 @@
-<section id=header align="center">
+  <section id=header align="center">
     <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="animated code cat walking" width="200">
 </section>
 
@@ -60,5 +60,15 @@ As I continue to dive deeper into this career, I hope to learn deeply, create di
 
 
 <p style="color: white; font-size: 20px; font-family:century gothic;">Languages and Tools</p>
+<section style="float:left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.8.0/icons/bulma.svg" title="Bulma" alt="Bulma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.8.0/icons/nodedotjs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</section>
 
-<img src="https://media.giphy.com/media/h0KBN3qQOAxv6DwiFm/giphy.gif" alt="cat saying boo and waving" width=200>
+
+<img src="https://media.giphy.com/media/h0KBN3qQOAxv6DwiFm/giphy.gif" alt="cat saying boo and waving" width=200 style="float:right">
