@@ -25,12 +25,6 @@
 </h1>
 
 ## I'm Lindsay Lewis
-<!-- <p style="color: white; font-size: 20px; font-family:century gothic;">I'm Lindsay Lewis</p> -->
-<!-- <section style="margin-bottom:10px;">
-    <img src="https://media.giphy.com/media/YSNkK0KrhJB8u0Rc0i/giphy.gif" alt="location pin" width="40" style="float:left">
-</section>
-<p style="padding-top:6px; font-size:15px;float:right;">Portland, Oregon</p>
-<br> -->
 
 <section style="float:left; margin-right:50px; margin-top:10px;">
     <img src="purple-smol.jpg" alt="avatar of Lindsay" style="border-radius: 20%; width: 200px; box-shadow:0 0 10px #fa5baf">
@@ -42,10 +36,7 @@ I am a Full Stack Developer, making the transition from the world of academia to
 <br>
 <br>
 As I continue to dive deeper into this career, I hope to learn deeply, create diligently, and to continue to face this endeavor with the enthusiasm that I started it with.
-<br>
-<br>
-<br>
-<br>
+
 
 ## About Me
 <!-- <p style="color: white; font-size: 20px; font-family:century gothic;">About Me</p> -->
@@ -59,13 +50,12 @@ As I continue to dive deeper into this career, I hope to learn deeply, create di
 - If I'm not hitting the books, you can expect to find me crocheting, out exploring, or playing a few games to recharge.
 
 ### You can reach me at
-<!-- <p style="float:left;margin-right:5px;">You can reach me at</p>  -->
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-ff69b4?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lewis-lindsay/)
 
 
 ## Languages and Tools
-<!-- <p style="color: white; font-size: 20px; font-family:century gothic;">Languages and Tools</p> -->
+
 <section style="float:left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
