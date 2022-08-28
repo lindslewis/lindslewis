@@ -70,5 +70,8 @@ As I continue to dive deeper into this career, I hope to learn deeply, create di
 
 <br>
 
-<img src="https://media.giphy.com/media/h0KBN3qQOAxv6DwiFm/giphy.gif" alt="cat saying boo and waving" width=200 style="float:right">
+<section>
+    <img src="https://media.giphy.com/media/h0KBN3qQOAxv6DwiFm/giphy.gif" alt="cat saying boo and waving" width=200 align:"center">
+</section>
+
 
