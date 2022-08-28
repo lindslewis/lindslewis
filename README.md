@@ -26,9 +26,9 @@
 
 ## I'm Lindsay Lewis
 
-<section style="float:left; margin-right:50px; margin-top:10px;">
+<!-- <section style="float:left; margin-right:50px; margin-top:10px;">
     <img src="purple-smol.jpg" alt="avatar of Lindsay" style="border-radius: 20%; width: 200px; box-shadow:0 0 10px #fa5baf">
-</section>
+</section> -->
 
 I am a Full Stack Developer, making the transition from the world of academia to web and software development. So far, my transition into coding has been a whirlwind adventure.
 <br>
