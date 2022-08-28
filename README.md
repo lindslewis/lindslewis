@@ -33,13 +33,13 @@
 I am a Full Stack Developer, making the transition from the world of academia to web and software development. So far, my transition into coding has been a whirlwind adventure.
 <br>
 <br>
-As I continue to dive deeper into this career, I hope to learn deeply, create diligently, and to continue to face this endeavor with the enthusiasm that I started it with.
+As I continue to dive deeper into this career, I hope to learn deeply, create diligently, and continue to face this endeavor with the enthusiasm that I started it with.
 
 
 ## About Me
 <!-- <p style="color: white; font-size: 20px; font-family:century gothic;">About Me</p> -->
 
-- Based out of the beautiful Portland, Oregon.
+- I'm based out of the beautiful Portland, Oregon.
 
 - I am currently attending the <span style="color:#8d4fc8">University of Washington Coding Bootcamp</span>, expecting to receive a Professional Certificate in Coding.
 
@@ -67,6 +67,8 @@ As I continue to dive deeper into this career, I hope to learn deeply, create di
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindslewis&layout=compact&theme=vision-friendly-dark)](https://github.com/lindslewis/github-readme-stats)
+
 <br>
+
 <img src="https://media.giphy.com/media/h0KBN3qQOAxv6DwiFm/giphy.gif" alt="cat saying boo and waving" width=200 style="float:right">
 
