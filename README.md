@@ -41,7 +41,7 @@ As I continue to dive deeper into this career, I hope to learn deeply, create di
 
 - I'm based out of the beautiful Portland, Oregon.
 
-- I am currently attending the <span style="color:#8d4fc8">University of Washington Coding Bootcamp</span>, expecting to receive a Professional Certificate in Coding.
+- Recently attended the <span style="color:#8d4fc8">University of Washington Coding Bootcamp</span> and receieved a Professional Certificate in Coding.
 
 - I graduated from <span style="color:#ff8000">Oregon State University</span> with a Bachelors in English.
 
